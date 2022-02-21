@@ -1,0 +1,24 @@
+{
+  "name": "cold",
+  "version": "1.0.0",
+  "description": "A Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColdBrainstorm/Cold.git"
+  },
+  "author": "ColdBrainstorm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColdBrainstorm/Cold/issues"
+  },
+  "homepage": "https://github.com/ColdBrainstorm/Cold#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.27.2",
+    "discord.js": "^13.6.0"
+  }
+}
